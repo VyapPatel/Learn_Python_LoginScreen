@@ -49,14 +49,6 @@ def main():
 
         print("Succesfully created an account")
 
-        username = create_Username
-        password = create_Password
-
-        sleep(1)
-        print()
-        login(username, password)
-
-    else:
         print("Try again")
 
 
